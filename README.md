@@ -1,8 +1,9 @@
-# Free RCCService API for Renders/Script
+# Free RCCService API for Renders/Script execution
 
 - API: https://grid.xolbor.gay/docs 
 - Server/Bot: https://discord.gg/RRbEycKgdT  
 - Versions: 2015-2021
+- This was made so people who cant host RCCSerivce can stilL use it for their Websites/Renders and as a alternative to the Discord bot.
 
 More info can be found in the discord this will be updated soon.
 
