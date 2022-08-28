@@ -9,3 +9,9 @@ More info can be found in the discord this will be updated soon.
 
 ![Preview1](https://cdn.discordapp.com/attachments/1003373656908496966/1010472517275758662/unknown.png "Preview1")
 ![Preview2](https://cdn.discordapp.com/attachments/1003373656908496966/1010472517628067870/unknown.png "Preview2")
+
+# EXPERIMENTAL API
+
+- Server/Bot: https://discord.gg/q8z9mKU48Y
+- Versions:2010-2015
+- This API will use some custom stuff to achieve execution and possibly renders in the future
